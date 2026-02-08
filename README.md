@@ -25,11 +25,17 @@ Minha caixa de ferramentas para automação e desenvolvimento:
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabriel-belisario-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Gabriel Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-belisario-dev&layout=compact&theme=dracula" alt="Gabriel Languages" />
-</p>
+### 💻 Ambientes & Ferramentas de Gestão
+Além da programação, tenho vivência técnica com:
+
+<div style="display: inline_block">
+  <img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="MacOS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+  <img align="center" alt="PDQ Deploy & Inventory" height="30" src="https://img.shields.io/badge/PDQ%20Deploy%20%26%20Inventory-FF7C00?style=flat&logo=windows&logoColor=white">
+</div>
 
 ---
 
