@@ -1,8 +1,8 @@
-# Olá, eu sou o Gabriel Belisário! 👋
+# Olá, meu nome é Gabriel Belisário, seja mais que bem vindo(a)! 👋
 
 ### 👨‍💻 Analista Computacional Jr | Entusiasta de DevOps & QA
 
-Atualmente atuo como Analista de Suporte N3, focado em resolver problemas complexos e otimizar processos de TI. Estou no 7º período de **Sistemas de Informação** e direcionando minha carreira para **Engenharia de Software** e **Quality Assurance (QA)**, com forte interesse em automação de infraestrutura.
+Atualmente atuo como Analista de Suporte N3, focado em resolver problemas complexos e otimizar processos de TI. Estou no 8º período de **Sistemas de Informação** e direcionando minha carreira para **Engenharia de Software** e **Quality Assurance (QA)**, até o momento sigo com forte interesse em automação de infraestrutura.
 
 ---
 
