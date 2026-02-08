@@ -35,6 +35,7 @@ Além da programação, tenho vivência técnica com:
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
   <img align="center" alt="PDQ Deploy & Inventory" height="30" src="https://img.shields.io/badge/PDQ%20Deploy%20%26%20Inventory-FF7C00?style=flat&logo=windows&logoColor=white">
+  <img align="center" alt="Jamf Pro" height="30" src="https://img.shields.io/badge/Jamf%20Pro-EA215A?style=flat&logo=jamf&logoColor=white">
 </div>
 
 ---
