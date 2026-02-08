@@ -26,17 +26,22 @@ Minha caixa de ferramentas para automação e desenvolvimento:
 ---
 
 ### 📊 Estatísticas do GitHub
-![Estatísticas do Gabriel](https://github-readme-stats.vercel.app/api?username=Gabriel-belisario-dev&theme=dracula&show_icons=true&hide_border=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-belisario-dev&layout=compact&theme=dracula&hide_border=true)
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gabriel-belisario-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Gabriel Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-belisario-dev&layout=compact&theme=dracula" alt="Gabriel Languages" />
+</p>
 
 ---
 
 ### 📫 Contato
 <div align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/gabrielbelisariorocha" target="_blank">
+  <a href="www.linkedin.com/in/gabrielbelisariorocha" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:gabriel.hb.rocha.97@gmail.com" target="_blank">
+  <a href="mailto:gabrielbelisario064@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://wa.me/5531988262097" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
 </div>
